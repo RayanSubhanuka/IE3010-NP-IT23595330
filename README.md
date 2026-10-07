@@ -21,15 +21,15 @@ The main features included in the system are:
 
 ## Student and System Details
 
-Registration Number - IT23595330
-Last Four Digits    - 5330
-Server Port         - 11330
-Node ID (NID)       - NID:5953
-Server Source       - server_5330.c
-Client Source       - client_5330.c
-Makefile            - Makefile_5330
-Log File            - netmsg_IT23595330.log
-Storage Directory   - ./storage/IT23595330/
+* Registration Number - IT23595330
+* Last Four Digits    - 5330
+* Server Port         - 11330
+* Node ID (NID)       - NID:5953
+* Server Source       - server_5330.c
+* Client Source       - client_5330.c
+* Makefile            - Makefile_5330
+* Log File            - netmsg_IT23595330.log
+* Storage Directory   - ./storage/IT23595330/
 
 The server port is calculated using:
 
